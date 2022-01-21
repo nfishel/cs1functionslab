@@ -3,5 +3,6 @@ lab50:
     - editor
     - readme
     - terminal
+    - browser
   files:
     - !include "*"
